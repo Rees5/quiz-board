@@ -29,8 +29,8 @@ Rees Alumasa
 
 ## Contact Information
 * Tel: +254792756002
-* <a src="reesalumasa@gmail.com">Email</a>
-* <a src="https://reestv.yolasite.com">Website</a>
+* Email: reesalumasa@gmail.com
+* Website: https://reestv.yolasite.com
 
 ## Copyright and Licence
 * MIT LICENSE
