@@ -13,5 +13,25 @@ Rees Alumasa
 | 4.The aplplication returns the score of the user <br> on the website when the user submits the answers | <img src="img/q4.png"> |
 
 ## Technologies Used
+ **Languages**
+ * JavaScript
+  * JQ
+  * JS
+ * HTML
+ * CSS
+  * CSS
+  * bootsrap
+
+**Aplications**
+* Atom
+* Terminal
+* Github
+
 ## Contact Information
+* Tel: +254792756002
+* <a src="reesalumasa@gmail.com">Email</a>
+* <a src="https://reestv.yolasite.com">Website</a>
+
 ## Copyright and Licence
+* MIT LICENSE
+* Copyright (c) 2019 Rees Alumasa
