@@ -3,7 +3,13 @@
 Quiz board is an application that allows the user to take a multiple choice test and the results of the test displayed on the webpage on submission of the answers.
 ## Author
 Rees Alumasa
+
 ## Set Up Requirements
+* A Mobile phone, PC, Desktop or any other supported PDA.
+* Internet connectivity.
+* A web browser. Most rated; Chrome and Firefox
+* Application Link to be run: https://Rees5.github.io/quiz-board
+
 ## BDD
 | Behaviour | Example Layout |
 | --- | --- |
@@ -29,8 +35,8 @@ Rees Alumasa
 
 ## Contact Information
 * Tel: +254792756002
-* <a src="reesalumasa@gmail.com">Email</a>
-* <a src="https://reestv.yolasite.com">Website</a>
+* Email: reesalumasa@gmail.com
+* Website: https://reestv.yolasite.com
 
 ## Copyright and Licence
 * MIT LICENSE
