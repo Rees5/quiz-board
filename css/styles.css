@@ -6,6 +6,7 @@
   border-style: outset;
   box-decoration-break: slice;
   float: left;
+  font-size: 20px;
 }
 #score {
   align-self: flex-start;
@@ -14,5 +15,9 @@
   background-color: DarkSlateGray;
   border-style: outset;
   box-decoration-break: slice;
-  float: left
+  float: left;
+  font-size: 20px;
+}
+.btn {
+  button: success;
 }
