@@ -86,7 +86,7 @@
             indexOf()
           </label>
         </div>
-        <p>5.Identify the low languge depicted by the code below:<br>MOV B, A<br>SUB F, E<br>LOAD D,A</span></p>
+        <p>5.Identify the low level languge depicted by the code below:<br>MOV B, A<br>SUB F, E<br>LOAD D,A</span></p>
         <div class="radio">
           <label>
             <input type="radio" name="5" value="0">
@@ -138,7 +138,19 @@
         </div>
         <button type="submit" name="button">Submit</button>
       </form>
-      <div id="score" class="col-md-6"></div><div id="display" class="col-md-6"></div>
+      <div class="jumbotron">
+        <table style="width:100%">
+            <p>Your results:</p>
+          <tr>
+            <th>Score:</th>
+            <div id="name">
+            <th>Percentage:</th>
+          </tr>
+          <tr>
+            <td><div id="score"></div></td>
+            <td><div id="display"></div></td>
+          </tr>
+        </table>
     </div>
     <script   src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <script src="js/scripts.js"></script>

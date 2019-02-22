@@ -1,8 +1,18 @@
-#output {
+#display {
   align-self: flex-start;
   color: lightcyan;
   border: 5px #557975;
   background-color: DarkSlateGray;
   border-style: outset;
   box-decoration-break: slice;
+  float: left;
+}
+#score {
+  align-self: flex-start;
+  color: lightcyan;
+  border: 5px #557975;
+  background-color: DarkSlateGray;
+  border-style: outset;
+  box-decoration-break: slice;
+  float: left
 }

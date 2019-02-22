@@ -1,3 +1,4 @@
+//Business Logic//
 $(document).ready(function() {
   $("#quiz").submit(function(event) {
     event.preventDefault();
@@ -7,7 +8,10 @@ $(document).ready(function() {
     var q4 = parseInt($("input:radio[name=4]:checked").val());
     var q5 = parseInt($("input:radio[name=5]:checked").val());
     var q6 = parseInt($("input:radio[name=6]:checked").val());
-    $("#score").text(q1+q2+q3+q4+q5+q6);
-    $("#display").text(((q1+q2+q3+q4+q5+q6)/6)*100)
+    var score = (q1+q2+q3+q4+q5+q6);
+    var perc = (((score)/6)*100)
+    //user interface logic//
+    $("#score").text(score +" mks");
+    $("#display").text(perc+"  %")
   });
 });
