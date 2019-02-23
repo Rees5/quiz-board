@@ -13,11 +13,10 @@ $(document).ready(function() {
     var q9 = parseInt($("input:radio[name=9]:checked").val());
     var q10 = parseInt($("input:radio[name=10]:checked").val());
     var score = (q1+q2+q3+q4+q5+q6+q7+q8+q9+q10);
-    var perc = (((score)/10)*100)
+    var perc = (((score)/10)*100);
 //user interface logic//
     $("#score").text(score +" mks");
-    $("#display").text(perc+"  %")
-
+    $("#display").text(perc+"  %");
     if(perc>=81) {
       alert("Excellent")
     } else if(perc>=50) {
