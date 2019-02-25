@@ -9,6 +9,8 @@ Rees Alumasa
 * Internet connectivity.
 * A web browser. Most rated; Chrome and Firefox
 * Application Link to be run: https://Rees5.github.io/quiz-board
+## Installation
+Set-up quiz board locally by cloning this repository
 
 ## BDD
 | Behaviour | Example Layout |
