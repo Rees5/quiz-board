@@ -1,4 +1,4 @@
-//User Interface Logic//
+//User Interface Logic
 $(document).ready(function() {
   $("#quiz").submit(function(event) {
     event.preventDefault();
@@ -17,7 +17,7 @@ $(document).ready(function() {
 
     $("#score").text(score +" mks");
     $("#display").text(perc+"  %");
-//Business Logic//
+//Business Logic
     if(perc>=81) {
       alert("Excellent")
     } else if(perc>=50) {
