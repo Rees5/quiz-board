@@ -1,4 +1,4 @@
-//Business Logic//
+//User Interface Logic//
 $(document).ready(function() {
   $("#quiz").submit(function(event) {
     event.preventDefault();
@@ -13,17 +13,20 @@ $(document).ready(function() {
     var q9 = parseInt($("input:radio[name=9]:checked").val());
     var q10 = parseInt($("input:radio[name=10]:checked").val());
     var score = (q1+q2+q3+q4+q5+q6+q7+q8+q9+q10);
-    var perc = (((score)/10)*100);
-//user interface logic//
+    var perc = (((score)/15)*100);
+
     $("#score").text(score +" mks");
     $("#display").text(perc+"  %");
-
+//Business Logic//
     if(perc>=81) {
       alert("Excellent")
     } else if(perc>=50) {
       alert("Fair")
-    } else {
+    } else if(perc>=0) {
       alert("poor work, redo the quiz")
+    }
+    else {
+      alert("You have not answered all the questions!")
     };
   });
 });

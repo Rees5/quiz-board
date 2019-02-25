@@ -1,4 +1,12 @@
 h1 {
+  color: white;
+  text-align: center;
+  border: 5px white;
+  background-color: gray;
+  padding: 5px;
+  border-style: outset;
+  margin-left: 30%;
+  margin-right: 30%;
   font-style: oblique;
   font-size: 40px;
 }
