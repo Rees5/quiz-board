@@ -17,6 +17,7 @@ $(document).ready(function() {
 //user interface logic//
     $("#score").text(score +" mks");
     $("#display").text(perc+"  %");
+
     if(perc>=81) {
       alert("Excellent")
     } else if(perc>=50) {

@@ -18,3 +18,16 @@
   float: left;
   font-size: 20px;
 }
+body {
+  background-color: silver;
+}
+footer {
+  text-align: center;
+  margin: 0;
+  position: fixed;
+  color: #982;
+  bottom: 0;
+  width: 100%;
+  font-weight: bold;
+  font-size: 12px;
+}
