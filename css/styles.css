@@ -1,3 +1,7 @@
+h1 {
+  font-style: oblique;
+  font-size: 40px;
+}
 #display {
   align-self: flex-start;
   color: lightcyan;
@@ -25,9 +29,9 @@ footer {
   text-align: center;
   margin: 0;
   position: fixed;
-  color: #982;
   bottom: 0;
   width: 100%;
   font-weight: bold;
   font-size: 12px;
+  color: brown;
 }
