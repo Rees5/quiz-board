@@ -35,3 +35,10 @@ footer {
   font-size: 12px;
   color: brown;
 }
+a {
+  color: lightcyan;
+  border: 5px #557975;
+  background-color: DarkSlateGray;
+  border-style: outset;
+  box-decoration-break: slice;
+}
