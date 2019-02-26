@@ -25,7 +25,7 @@ Set-up quiz board locally by cloning this repository using the procedure below:
 | 3.The application allows the user to submit <br> answers when through with the quiz | <img src="img/q3.png" height="200px"> |
 | 4.The aplplication returns the score of the user <br> on the website when the user submits the answers | <img src="img/q4.png"> |
 | 5.The application returns various comments<br>according to the grades scored on submission of<br>the project eg. Excellent, fair, poor and you have not answered all the questions | <img src="img/q5.png"> |
-| 6.The application allows a user who has scored less than 50% to redo a the test | <img src="img/q5.png"> |
+| 6.The application allows a user who has scored less than 50% to redo a the test | <img src="img/q6.png"> |
 
 ## Technologies Used
  **Languages**
