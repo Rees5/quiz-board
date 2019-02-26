@@ -34,6 +34,7 @@ Set-up quiz board locally by cloning this repository using the procedure below:
  * HTML
  * CSS
  * bootsrap
+ 
 **Aplications**
 * Atom
 * Terminal
