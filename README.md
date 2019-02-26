@@ -29,14 +29,11 @@ Set-up quiz board locally by cloning this repository using the procedure below:
 
 ## Technologies Used
  **Languages**
- * JavaScript
-  * JQ
-  * JS
+ * JQ
+ * JS
  * HTML
  * CSS
-  * CSS
-  * bootsrap
-
+ * bootsrap
 **Aplications**
 * Atom
 * Terminal
