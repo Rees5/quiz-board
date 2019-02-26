@@ -10,7 +10,12 @@ Rees Alumasa
 * A web browser. Most rated; Chrome and Firefox
 * Application Link to be run: https://Rees5.github.io/quiz-board
 ## Installation
-Set-up quiz board locally by cloning this repository
+Set-up quiz board locally by cloning this repository using the procedure below:
+
+   * *git clone https://github.com/Rees5/quiz-board*
+   * *cd quiz-board*
+   * *atom .*
+
 
 ## BDD
 | Behaviour | Example Layout |
@@ -19,6 +24,7 @@ Set-up quiz board locally by cloning this repository
 | 2.The application allows for selection of only <br> one answer per question that the user thinks is correct <br> from the multiple answers provided | <img src="img/q2.png"> |
 | 3.The application allows the user to submit <br> answers when through with the quiz | <img src="img/q3.png" height="200px"> |
 | 4.The aplplication returns the score of the user <br> on the website when the user submits the answers | <img src="img/q4.png"> |
+| 5.The application returns various comments<br>according to the grades scored on submission of<br>the project eg. Excellent, fair, poor and you have not answered all the questions | <img src="img/q5.png"> |
 
 ## Technologies Used
  **Languages**
