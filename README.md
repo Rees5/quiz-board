@@ -2,7 +2,7 @@
 ## Description
 Quiz board is an application that allows the user to take a multiple choice test and the results of the test displayed on the webpage on submission of the answers.
 ## Author
-Rees Alumasa
+[Rees Alumasa](https://github.com/Rees5)
 
 ## Set Up Requirements
 * A Mobile phone, PC, Desktop or any other supported PDA.
