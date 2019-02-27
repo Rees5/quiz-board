@@ -12,9 +12,9 @@ Quiz board is an application that allows the user to take a multiple choice test
 ## Installation
 Set-up quiz board locally by cloning this repository using the procedure below:
 
-   * *git clone https://github.com/Rees5/quiz-board*
-   * *cd quiz-board*
-   * *atom .*
+   * `*git clone https://github.com/Rees5/quiz-board*`
+   * `*cd quiz-board*`
+   * `*atom .*`
 
 
 ## BDD
